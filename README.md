@@ -10,3 +10,5 @@ The projects in this repository show working examples using the .NET CLI and ASP
 3. run `dotnet restore` in the root folder
 4. Navigate to either `HelloMvc` or `HelloWeb` and run `dotnet run`
 5. Navigate to `http://localhost:5000` in the browser
+
+Test git command
