@@ -12,5 +12,7 @@ The projects in this repository show working examples using the .NET CLI and ASP
 5. Navigate to `http://localhost:5000` in the browser
 
 Test git command1
+
 Test git command2
+
 Test git command3
